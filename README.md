@@ -2,8 +2,10 @@
 
 ANALIZADOR LEXICO DE UN PROGRAMA
 
-Integrantes del Grupo:
+* DESCRIPCION:  
 
+
+Integrantes del Grupo:  
 
 Milady Jarissa Espinal Ponce - 20171001094  
 Ali Isacc Banegas Vasquez - 20171000239    
